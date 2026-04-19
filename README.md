@@ -4,6 +4,9 @@ A simple and responsive Shopping Cart Application built using React.
 This project allows users to add items to the cart, view selected products, and manage quantities dynamically.
 
 
+## Live Demo
+https://quick-cart-frontend-three.vercel.app/
+
 ## Features
 
 - Add items to cart
