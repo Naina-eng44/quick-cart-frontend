@@ -36,7 +36,8 @@ src/
 
 ## Screenshots
 
-["Cart Output"](./src/output/output_screensort.png)C:\Users\Naina\OneDrive\Desktop\quickcart\src\output\output_screensort.png
+!["Cart Output"](./src/output/output_screensort.png)
+
 
 
 ## How to Run
